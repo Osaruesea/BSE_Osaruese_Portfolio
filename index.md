@@ -7,6 +7,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
+
 # Fourth Milestone
 My fourth milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
@@ -23,6 +24,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WXE0KklW5tQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # First Milestone
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was setting up the cassie for the robot car. At this point I have set up the cassie and got the motors to move forwards and backwards using one motor driver. I connected the motors to the motor driver using some male to male wires, the wires were not very stable and caused some difficulties with the movement of the motors. Another thing that caused a weak connection was the battery that I was using to power up the motors and motor drive, I will fix these problems later on because the goal of this milestone was to get the motors moving and the motors ended up moving. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2lhBOhF8yjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
