@@ -9,7 +9,7 @@ This will serve as a brief description of your project. Limit this to three sent
 
 
 # Fourth Milestone
-My fourth milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My fourth milestone I added a light sensor to my robot. The light sensor commands my robot to move, so my robot doesn't until a flashlight sheds it like on it. When the flash light is on my robot my robot is supposed to move forward, however, I have a bug in my code that is affecting the way my robot is moving and that is something that I have to fix later on. Another addition to my project was I started using a breaded board because multiple parts in my project needed a ground or a 5v and the only way for them to all be able to use it was by using a bearded board. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKlQOR1vBHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
