@@ -14,7 +14,7 @@ My fourth milestone is the increased reliability and accuracy of my robot. I ame
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKlQOR1vBHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 # Third Milestone
-My third milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My third milestone I did add much to the project. The only extra part that I added on to me project was an ultra sonic sensor. The ultra sonic sensor only added four more wires to my robot. The wires that I used were male to female wires and I used these wires to connect the ultra sonic sensor to the ardunino. The rest of the work for the ultra sonic sensor was coding commands and actions that I wanted the ultra sonic sensor to do.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8ysGsGmRhvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
