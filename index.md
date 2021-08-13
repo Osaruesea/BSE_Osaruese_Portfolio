@@ -3,16 +3,16 @@ The Floor Cleaning Robot is a robot made to clean floors on it's own. It is self
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Osaruese Okungbowa | The Laboratory of Finance and Technology | Computer Science | Highschool Senior- 2022
+| Osaruese Okungbowa | The Laboratory of Finance and Technology | Computer Science | Highschool Senior- Class of 2022
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
 # Demo Night One
-
+It was very fun to explain the project that I have been working on for three weeks. I have presented to people before but this was a different experience. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jRL4JnPBWck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Demo Night Two
-
+This demo night was just as fun as the first one. I had some trouble with my project so I wasn't able to show the audience my project working but it was still fun.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AiweyoxysdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
