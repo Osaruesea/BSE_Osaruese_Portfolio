@@ -1,9 +1,9 @@
 ﻿# Floor Cleaning Robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+The Floor Cleaning Robot is a robot made to clean floors on it's own. It is self controlled and the different light colors on the robot stand for different directions forwards, backwards, and stops.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Osaruese Okungbowa | The Laboratory of Finance and Technology | Computer Science | Incoming Senior
+| Osaruese Okungbowa | The Laboratory of Finance and Technology | Computer Science | Highschool Senior- 2022
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 
