@@ -1,3 +1,4 @@
+
 ﻿# Floor Cleaning Robot
 The Floor Cleaning Robot is a robot made to clean floors on it's own. It is self controlled and the different light colors on the robot stand for different directions forwards, backwards, and stops.
 
@@ -5,7 +6,7 @@ The Floor Cleaning Robot is a robot made to clean floors on it's own. It is self
 |:--:|:--:|:--:|:--:|
 | Osaruese Okungbowa | The Laboratory of Finance and Technology | Computer Science | Highschool Senior- Class of 2022
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![IMG_8855](https://user-images.githubusercontent.com/87208905/129425939-d549a4b1-44cb-462f-9842-d3326d1ce9b0.jpg)
 
 # Demo Night One
 It was very fun to explain the project that I have been working on for three weeks. I have presented to people before but this was a different experience. 
