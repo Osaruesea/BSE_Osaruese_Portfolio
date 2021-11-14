@@ -1,5 +1,5 @@
 # Floor Cleaning Robot
-The Floor Cleaning Robot is a robot made to clean floors on it's own. It is self controlled and the different light colors on the robot stand for different directions forwards, backwards, and stops.
+The Floor Cleaning Robot is a robot made to clean floors on it's own. It is self controlled and the different light colors on the robot stand for different directions forwards, backwards, and stops. This website is still in progress!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
